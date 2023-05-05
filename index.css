@@ -1,0 +1,10 @@
+body{background-color:whitesmoke;}
+.container{width: 800px;height: 600px;margin: 0 auto;display: flex;margin-top: 100px;}
+.sidebar{width: 20%;height: 100%;background-color: #bd8e6e;overflow-y: scroll;
+  overflow-x: hidden}
+.main{width: 80%;height: 100%;display: flex;flex-direction: column;}
+.notes{width: 100%;height: 100%;background-color: black;}
+.note_row{width: 100%;height: 10%;background-color: #3d4c32;border: 1px solid black;margin: 0;}
+.input_note{width: 100%;height: 100%;background-color: #ecd1c3; font-family: 'Times New Roman', Times, serif;font-size: 20px;}
+.button{width: 100%;height: 50px;border-radius: 10px;background-color: lightskyblue;color: black;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;margin-bottom: 30px;}
+.note_row h3{margin: 0;}
